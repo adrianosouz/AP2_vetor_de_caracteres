@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1375724140 source:c:\users\adriano\desktop\multiboot\projetos_c\ap2\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 c:\users\adriano\desktop\multiboot\projetos_c\ap2\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1429970737 source:c:\users\adriano\desktop\multiboot\projetos_c\ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
+1375724140 source:c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\ap2\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\ap2\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
+1429970737 source:c:\users\administrador.000\desktop\ufc_geral\intro_programacao\codigos_intro_programcao\ap2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
